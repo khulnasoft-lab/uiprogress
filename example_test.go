@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gosuri/uiprogress"
+	"github.com/slimtoolkit/uiprogress"
 )
 
 func Example() {
